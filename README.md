@@ -54,11 +54,7 @@ Allure generate allure-results --clean -o allure-report
 
 ```
 # Report:
-![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/ece05716-274f-4241-95ce-b2a58c8ad1c4)
-![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/f029136d-fe39-478a-885b-28ae76dc578d)
-![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/a4a377e4-6321-4a56-93fb-76a0c2cc586b)
-![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/4aeef5c7-564d-4401-817a-9188ae75c1a3)
-![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/9f871d38-9e8d-4dd2-b02d-5eaa11aab0fe)
+https://github.com/Wasiur195/EMI-Calculator-with-Appium/wiki
 
 
 
