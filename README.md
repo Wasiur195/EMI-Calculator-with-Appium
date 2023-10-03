@@ -54,11 +54,16 @@ Allure generate allure-results --clean -o allure-report
 
 ```
 # Report:
-![a](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/5d7e79ba-8aee-4b6a-b247-aff24f6eee87)
-![b](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/33766581-77e3-4da8-820f-2717a670fad2)
-![c](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/dfc55ce0-5e79-4cb0-b167-90bd19849a3d)
-![d](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/28789e32-2002-4cbc-8aa4-742ab63f0245)
-![e](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/836b2162-f740-43dc-a9ed-ff06bd3c2ce5)
+![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/ece05716-274f-4241-95ce-b2a58c8ad1c4)
+![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/f029136d-fe39-478a-885b-28ae76dc578d)
+![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/a4a377e4-6321-4a56-93fb-76a0c2cc586b)
+![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/4aeef5c7-564d-4401-817a-9188ae75c1a3)
+![image](https://github.com/Wasiur195/EMI-Calculator-with-Appium/assets/23733827/9f871d38-9e8d-4dd2-b02d-5eaa11aab0fe)
+
+
+
+
+
 
 
 
